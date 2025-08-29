@@ -13,6 +13,13 @@
     > easy to colab
 
 5. End to End Project (Chatbook class)
+    > function v/s method
+    > magic method /  dunder method / special method
+    > self
+    > You can create attribute outside the class as well
+
     > encapsulation
     > getter and setter 
     > static method
+
+    >Inheritance
